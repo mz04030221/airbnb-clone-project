@@ -56,3 +56,6 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
 - Authentication
 - Authorization
 - Rate limiting
+
+## CI/CD Pipeline
+Continuous Integration/Continuous Deployment (CI/CD) pipelines are automated processes that integrate code changes, test, build, and deploy software applications. They bridge the gap between development, testing, and deployment, ensuring smooth and efficient delivery of software updates.
