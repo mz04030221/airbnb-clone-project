@@ -20,6 +20,13 @@ The backend for the Airbnb Clone project is designed to provide a robust and sca
 - **Docker:** Containerization tool for consistent development and deployment environments.
 - **CI/CD Pipelines:** Automated pipelines for testing and deploying code changes.
 
+## Database Design
+- Users
+- Properties
+- Bookings
+- Payments
+- Reviews
+
 ## Team Roles
 - **Backend Developer:** Responsible for implementing API endpoints, database schemas, and business logic.
 - **Database Administrator:** Manages database design, indexing, and optimizations.
